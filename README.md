@@ -4,19 +4,19 @@ A Python-based data analytics project that cleans, analyses, and visualizes sale
 
 ## 📌 Overview
 
-Smart Data Analyser processes sales data and converts raw information into useful insights through data cleaning, analysis, and visualization.
+Smart Data Analyser processes sales data and converts raw information into meaningful insights through data cleaning, analysis, and visualization.
+
+The project demonstrates a basic end-to-end data analytics workflow using Python.
 
 ## 🚀 Features
 
-- CSV data loading
-- Data cleaning
-- Missing-value handling
-- Revenue analysis
-- Product performance analysis
-- Category-wise analysis
-- Monthly sales trend analysis
-- Automated CSV results
-- Data visualization
+- Data cleaning and preprocessing
+- Sales data analysis
+- Category-wise sales analysis
+- Monthly sales analysis
+- Top product identification
+- CSV-based input and output
+- Data visualization using charts
 
 ## 🛠️ Technologies Used
 
@@ -25,25 +25,27 @@ Smart Data Analyser processes sales data and converts raw information into usefu
 - NumPy
 - Matplotlib
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 smart-data-analyser/
 │
-├── data/
-│   └── sales_data.csv
+├── smart-data-analyser/
+│   ├── data/
+│   │   └── sales_data.csv
+│   │
+│   ├── src/
+│   │   └── data_analyser.py
+│   │
+│   ├── output/
+│   │   └── analysis_results.csv
+│   │
+│   ├── visualizations/
+│   │   ├── category_sales.png
+│   │   ├── monthly_sales.png
+│   │   └── top_products.png
+│   │
+│   ├── README.md
+│   └── requirements.txt
 │
-├── src/
-│   └── data_analyser.py
-│
-├── output/
-│   └── analysis_results.csv
-│
-├── visualizations/
-│   ├── monthly_sales.png
-│   ├── category_sales.png
-│   └── top_products.png
-│
-├── requirements.txt
-├── .gitignore
 └── README.md
