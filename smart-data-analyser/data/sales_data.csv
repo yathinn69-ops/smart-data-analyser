@@ -1,0 +1,217 @@
+Order_ID,Order_Date,Product,Category,Units_Sold,Unit_Price,Discount,Revenue
+1001,2025-01-01,Laptop,Electronics,4,65000,0.0,260000.0
+1002,2025-01-01,Keyboard,Accessories,5,2200,0.05,10450.0
+1003,2025-01-01,Smartphone,Electronics,1,28000,0.15,23800.0
+1004,2025-01-01,Desk,Furniture,4,12000,0.1,43200.0
+1005,2025-01-01,Office Chair,Furniture,1,8500,0.05,8075.0
+1006,2025-01-01,Office Chair,Furniture,2,8500,0.1,15300.0
+1007,2025-01-01,Monitor,Electronics,4,18000,0.1,64800.0
+1008,2025-01-01,Office Chair,Furniture,3,8500,0.0,25500.0
+1009,2025-01-01,Laptop,Electronics,3,65000,0.0,195000.0
+1010,2025-01-01,Monitor,Electronics,5,18000,0.05,85500.0
+1011,2025-01-01,Smartphone,Electronics,4,28000,0.0,112000.0
+1012,2025-01-01,Laptop,Electronics,5,65000,0.1,292500.0
+1013,2025-01-01,Desk,Furniture,4,12000,,48000.0
+1014,2025-01-01,Headphones,Accessories,3,3500,0.0,10500.0
+1015,2025-01-01,Office Chair,Furniture,1,8500,0.05,8075.0
+1016,2025-01-01,Mouse,Accessories,4,1200,0.15,4080.0
+1017,2025-01-01,Keyboard,Accessories,2,2200,0.0,4400.0
+1018,2025-01-01,Laptop,Electronics,3,65000,0.0,195000.0
+1019,2025-02-01,Keyboard,Accessories,1,2200,0.05,2090.0
+1020,2025-02-01,Headphones,Accessories,2,3500,0.05,6650.0
+1021,2025-02-01,Mouse,Accessories,3,1200,0.1,3240.0
+1022,2025-02-01,Desk,Furniture,4,12000,0.0,48000.0
+1023,2025-02-01,Monitor,Electronics,5,18000,0.1,81000.0
+1024,2025-02-01,Monitor,Electronics,2,18000,0.0,36000.0
+1025,2025-02-01,Smartphone,Electronics,4,28000,0.0,112000.0
+1026,2025-02-01,Monitor,Electronics,1,18000,0.0,18000.0
+1027,2025-02-01,Monitor,Electronics,4,18000,0.05,68400.0
+1028,2025-02-01,Keyboard,Accessories,4,2200,0.1,7920.0
+1029,2025-02-01,Office Chair,Furniture,3,8500,0.05,24225.0
+1030,2025-02-01,Laptop,Electronics,1,65000,0.0,65000.0
+1031,2025-02-01,Keyboard,Accessories,4,2200,0.05,8360.0
+1032,2025-02-01,Monitor,Electronics,3,18000,0.1,48600.0
+1033,2025-02-01,Office Chair,Furniture,4,8500,0.05,32300.0
+1034,2025-02-01,Laptop,Electronics,3,65000,0.0,195000.0
+1035,2025-02-01,Office Chair,Furniture,1,8500,0.0,8500.0
+1036,2025-02-01,Mouse,Accessories,2,1200,0.0,2400.0
+1037,2025-03-01,Mouse,Accessories,5,1200,0.0,6000.0
+1038,2025-03-01,Monitor,Electronics,1,18000,0.0,18000.0
+1039,2025-03-01,Mouse,Accessories,2,1200,0.05,2280.0
+1040,2025-03-01,Smartphone,Electronics,3,28000,0.1,75600.0
+1041,2025-03-01,Mouse,Accessories,4,1200,0.0,4800.0
+1042,2025-03-01,Keyboard,,5,2200,0.0,11000.0
+1043,2025-03-01,Headphones,Accessories,1,3500,0.0,3500.0
+1044,2025-03-01,Monitor,Electronics,4,18000,0.05,68400.0
+1045,2025-03-01,Desk,Furniture,1,12000,0.05,11400.0
+1046,2025-03-01,Mouse,Accessories,1,1200,0.05,1140.0
+1047,2025-03-01,Keyboard,Accessories,3,2200,0.0,6600.0
+1048,2025-03-01,Smartphone,Electronics,2,28000,0.05,53200.0
+1049,2025-03-01,Office Chair,Furniture,2,8500,0.0,17000.0
+1050,2025-03-01,Headphones,Accessories,1,3500,0.15,2975.0
+1051,2025-03-01,Headphones,Accessories,5,3500,0.05,16625.0
+1052,2025-03-01,Keyboard,Accessories,2,2200,0.15,3740.0
+1053,2025-03-01,Headphones,Accessories,4,3500,0.05,13300.0
+1054,2025-03-01,Monitor,Electronics,3,18000,0.0,54000.0
+1055,2025-04-01,Laptop,Electronics,1,65000,0.1,58500.0
+1056,2025-04-01,Smartphone,Electronics,3,28000,0.0,84000.0
+1057,2025-04-01,Desk,Furniture,2,12000,0.05,22800.0
+1058,2025-04-01,Office Chair,Furniture,1,8500,0.1,7650.0
+1059,2025-04-01,Laptop,Electronics,4,65000,0.05,247000.0
+1060,2025-04-01,Desk,Furniture,3,12000,0.05,34200.0
+1061,2025-04-01,Smartphone,Electronics,3,28000,0.05,79800.0
+1062,2025-04-01,Desk,Furniture,1,12000,0.0,12000.0
+1063,2025-04-01,Monitor,Electronics,1,18000,0.05,17100.0
+1064,2025-04-01,Smartphone,Electronics,2,28000,0.0,56000.0
+1065,2025-04-01,Desk,Furniture,1,12000,0.05,11400.0
+1066,2025-04-01,Monitor,Electronics,1,18000,0.1,16200.0
+1067,2025-04-01,Mouse,Accessories,3,1200,0.0,3600.0
+1068,2025-04-01,Office Chair,Furniture,3,8500,0.0,25500.0
+1069,2025-04-01,Smartphone,Electronics,5,28000,0.05,133000.0
+1070,2025-04-01,Keyboard,Accessories,4,2200,0.0,8800.0
+1071,2025-04-01,Headphones,Accessories,3,3500,0.05,9975.0
+1072,2025-04-01,Keyboard,Accessories,5,2200,0.05,10450.0
+1073,2025-05-01,Office Chair,Furniture,3,8500,0.0,25500.0
+1074,2025-05-01,Mouse,Accessories,2,1200,0.05,2280.0
+1075,2025-05-01,Monitor,Electronics,3,18000,0.0,54000.0
+1076,2025-05-01,Headphones,Accessories,5,3500,0.1,15750.0
+1077,2025-05-01,Office Chair,Furniture,1,8500,0.05,8075.0
+1078,2025-05-01,Headphones,Accessories,1,3500,0.05,3325.0
+1079,2025-05-01,Laptop,Electronics,2,65000,0.05,123500.0
+1080,2025-05-01,Desk,Furniture,4,12000,0.1,43200.0
+1081,2025-05-01,Headphones,Accessories,1,3500,0.1,3150.0
+1082,2025-05-01,Mouse,Accessories,2,1200,0.0,2400.0
+1083,2025-05-01,Smartphone,Electronics,3,28000,0.0,84000.0
+1084,2025-05-01,Headphones,Accessories,5,3500,0.1,15750.0
+1085,2025-05-01,Mouse,Accessories,2,1200,0.15,2040.0
+1086,2025-05-01,Desk,Furniture,2,12000,0.05,22800.0
+1087,2025-05-01,Mouse,Accessories,2,1200,0.1,2160.0
+1088,2025-05-01,Smartphone,Electronics,1,28000,,28000.0
+1089,2025-05-01,Headphones,Accessories,3,3500,0.15,8925.0
+1090,2025-05-01,Smartphone,Electronics,5,28000,0.05,133000.0
+1091,2025-06-01,Monitor,Electronics,5,18000,0.1,81000.0
+1092,2025-06-01,Laptop,Electronics,3,65000,0.0,195000.0
+1093,2025-06-01,Laptop,Electronics,4,65000,0.05,247000.0
+1094,2025-06-01,Keyboard,Accessories,2,2200,0.0,4400.0
+1095,2025-06-01,Desk,Furniture,4,12000,0.0,48000.0
+1096,2025-06-01,Laptop,Electronics,5,65000,0.0,325000.0
+1097,2025-06-01,Laptop,Electronics,1,65000,0.1,58500.0
+1098,2025-06-01,Mouse,Accessories,1,1200,0.0,1200.0
+1099,2025-06-01,Headphones,Accessories,3,3500,0.1,9450.0
+1100,2025-06-01,Laptop,Electronics,1,65000,0.0,65000.0
+1101,2025-06-01,Mouse,Accessories,4,1200,0.15,4080.0
+1102,2025-06-01,Keyboard,Accessories,3,2200,0.0,6600.0
+1103,2025-06-01,Mouse,Accessories,1,1200,0.0,1200.0
+1104,2025-06-01,Headphones,Accessories,1,3500,0.05,3325.0
+1105,2025-06-01,Mouse,Accessories,1,1200,0.05,1140.0
+1106,2025-06-01,Mouse,Accessories,4,1200,0.05,4560.0
+1107,2025-06-01,Keyboard,Accessories,1,2200,0.1,1980.0
+1108,2025-06-01,Laptop,Electronics,4,65000,0.05,247000.0
+1109,2025-07-01,Monitor,Electronics,1,18000,0.0,18000.0
+1110,2025-07-01,Office Chair,Furniture,5,8500,0.0,42500.0
+1111,2025-07-01,Mouse,Accessories,2,1200,0.05,2280.0
+1112,2025-07-01,Office Chair,Furniture,4,8500,0.15,28900.0
+1113,2025-07-01,Office Chair,Furniture,2,8500,0.1,15300.0
+1114,2025-07-01,Keyboard,Accessories,1,2200,0.05,2090.0
+1115,2025-07-01,Smartphone,Electronics,4,28000,0.0,112000.0
+1116,2025-07-01,Desk,Furniture,1,12000,0.0,12000.0
+1117,2025-07-01,Laptop,Electronics,5,65000,0.05,308750.0
+1118,2025-07-01,Smartphone,Electronics,5,28000,0.1,126000.0
+1119,2025-07-01,Keyboard,Accessories,3,2200,0.1,5940.0
+1120,2025-07-01,Monitor,Electronics,1,18000,0.0,18000.0
+1121,2025-07-01,Headphones,Accessories,5,3500,0.1,15750.0
+1122,2025-07-01,Keyboard,Accessories,2,2200,0.05,4180.0
+1123,2025-07-01,Monitor,Electronics,4,18000,0.1,64800.0
+1124,2025-07-01,Monitor,Electronics,4,18000,0.0,72000.0
+1125,2025-07-01,Laptop,Electronics,2,65000,0.0,130000.0
+1126,2025-07-01,Laptop,Electronics,4,65000,0.1,234000.0
+1127,2025-08-01,Headphones,Accessories,3,3500,0.0,10500.0
+1128,2025-08-01,Headphones,Accessories,2,3500,0.05,6650.0
+1129,2025-08-01,Monitor,Electronics,5,18000,0.0,90000.0
+1130,2025-08-01,Mouse,Accessories,1,1200,0.05,1140.0
+1131,2025-08-01,Headphones,Accessories,1,3500,0.1,3150.0
+1132,2025-08-01,Headphones,Accessories,2,3500,0.0,7000.0
+1133,2025-08-01,Mouse,Accessories,5,1200,0.0,6000.0
+1134,2025-08-01,Smartphone,Electronics,2,28000,0.0,56000.0
+1135,2025-08-01,Keyboard,Accessories,1,2200,0.0,2200.0
+1136,2025-08-01,Desk,Furniture,1,12000,0.0,12000.0
+1137,2025-08-01,Monitor,Electronics,1,18000,0.05,17100.0
+1138,2025-08-01,Office Chair,Furniture,4,8500,0.0,34000.0
+1139,2025-08-01,Monitor,Electronics,2,18000,0.05,34200.0
+1140,2025-08-01,Desk,Furniture,5,12000,0.1,54000.0
+1141,2025-08-01,Office Chair,Furniture,1,8500,0.0,8500.0
+1142,2025-08-01,Mouse,Accessories,2,1200,0.0,2400.0
+1143,2025-08-01,Desk,Furniture,3,12000,0.0,36000.0
+1144,2025-08-01,Headphones,Accessories,1,3500,0.0,3500.0
+1145,2025-09-01,Mouse,Accessories,3,1200,0.0,3600.0
+1146,2025-09-01,Laptop,Electronics,5,65000,0.0,325000.0
+1147,2025-09-01,Keyboard,Accessories,5,2200,0.0,11000.0
+1148,2025-09-01,Monitor,Electronics,5,18000,0.1,81000.0
+1149,2025-09-01,Smartphone,Electronics,5,28000,0.1,126000.0
+1150,2025-09-01,Office Chair,Furniture,4,8500,0.05,32300.0
+1151,2025-09-01,Office Chair,Furniture,4,8500,0.0,34000.0
+1152,2025-09-01,Monitor,Electronics,3,18000,0.05,51300.0
+1153,2025-09-01,Mouse,Accessories,5,1200,0.05,5700.0
+1154,2025-09-01,Monitor,Electronics,2,18000,0.05,34200.0
+1155,2025-09-01,Smartphone,Electronics,2,28000,0.0,56000.0
+1156,2025-09-01,Keyboard,Accessories,3,2200,0.0,6600.0
+1157,2025-09-01,Office Chair,Furniture,2,8500,0.0,17000.0
+1158,2025-09-01,Office Chair,Furniture,2,8500,0.0,17000.0
+1159,2025-09-01,Keyboard,Accessories,2,2200,0.05,4180.0
+1160,2025-09-01,Smartphone,Electronics,2,28000,0.1,50400.0
+1161,2025-09-01,Desk,Furniture,5,12000,0.05,57000.0
+1162,2025-09-01,Monitor,Electronics,2,18000,0.05,34200.0
+1163,2025-10-01,Mouse,Accessories,5,1200,0.05,5700.0
+1164,2025-10-01,Smartphone,Electronics,5,28000,0.05,133000.0
+1165,2025-10-01,Monitor,Electronics,4,18000,0.0,72000.0
+1166,2025-10-01,Smartphone,Electronics,4,28000,0.0,112000.0
+1167,2025-10-01,Office Chair,Furniture,4,8500,0.1,30600.0
+1168,2025-10-01,Mouse,Accessories,1,1200,0.05,1140.0
+1169,2025-10-01,Desk,Furniture,1,12000,0.05,11400.0
+1170,2025-10-01,Office Chair,Furniture,1,8500,0.1,7650.0
+1171,2025-10-01,Desk,Furniture,1,12000,0.15,10200.0
+1172,2025-10-01,Smartphone,Electronics,5,28000,0.05,133000.0
+1173,2025-10-01,Keyboard,Accessories,4,2200,0.1,7920.0
+1174,2025-10-01,Mouse,Accessories,5,1200,0.0,6000.0
+1175,2025-10-01,Desk,Furniture,3,12000,0.0,36000.0
+1176,2025-10-01,Office Chair,Furniture,4,8500,0.0,34000.0
+1177,2025-10-01,Smartphone,Electronics,3,28000,0.05,79800.0
+1178,2025-10-01,Keyboard,Accessories,3,2200,0.05,6270.0
+1179,2025-10-01,Desk,Furniture,4,12000,0.1,43200.0
+1180,2025-10-01,Office Chair,Furniture,3,8500,0.05,24225.0
+1181,2025-11-01,Smartphone,Electronics,5,28000,0.0,140000.0
+1182,2025-11-01,Monitor,Electronics,1,18000,0.0,18000.0
+1183,2025-11-01,Keyboard,Accessories,4,2200,0.0,8800.0
+1184,2025-11-01,Mouse,Accessories,4,1200,0.05,4560.0
+1185,2025-11-01,Desk,Furniture,2,12000,0.1,21600.0
+1186,2025-11-01,Monitor,Electronics,4,18000,0.0,72000.0
+1187,2025-11-01,Monitor,Electronics,2,18000,0.0,36000.0
+1188,2025-11-01,Headphones,Accessories,1,3500,0.0,3500.0
+1189,2025-11-01,Laptop,Electronics,5,65000,0.0,325000.0
+1190,2025-11-01,Desk,Furniture,2,12000,0.05,22800.0
+1191,2025-11-01,Smartphone,Electronics,3,28000,0.1,75600.0
+1192,2025-11-01,Headphones,Accessories,4,3500,0.05,13300.0
+1193,2025-11-01,Smartphone,Electronics,2,28000,0.15,47600.0
+1194,2025-11-01,Laptop,Electronics,4,65000,0.15,221000.0
+1195,2025-11-01,Keyboard,Accessories,1,2200,0.1,1980.0
+1196,2025-11-01,Mouse,Accessories,4,1200,0.0,4800.0
+1197,2025-11-01,Keyboard,Accessories,3,2200,0.05,6270.0
+1198,2025-11-01,Office Chair,Furniture,1,8500,0.05,8075.0
+1199,2025-12-01,Desk,Furniture,5,12000,0.0,60000.0
+1200,2025-12-01,Mouse,Accessories,3,1200,0.0,3600.0
+1201,2025-12-01,Laptop,Electronics,2,65000,0.1,117000.0
+1202,2025-12-01,Desk,Furniture,4,12000,0.0,48000.0
+1203,2025-12-01,Keyboard,Accessories,5,2200,0.1,9900.0
+1204,2025-12-01,Desk,Furniture,2,12000,0.1,21600.0
+1205,2025-12-01,Laptop,Electronics,1,65000,0.15,55250.0
+1206,2025-12-01,Laptop,Electronics,4,65000,0.05,247000.0
+1207,2025-12-01,Office Chair,Furniture,1,8500,0.1,7650.0
+1208,2025-12-01,Monitor,Electronics,1,18000,0.0,18000.0
+1209,2025-12-01,Keyboard,Accessories,1,2200,0.1,1980.0
+1210,2025-12-01,Monitor,Electronics,1,18000,0.1,16200.0
+1211,2025-12-01,Headphones,Accessories,4,3500,0.0,14000.0
+1212,2025-12-01,Laptop,Electronics,1,65000,0.0,65000.0
+1213,2025-12-01,Monitor,Electronics,4,18000,0.1,64800.0
+1214,2025-12-01,Mouse,Accessories,2,1200,0.1,2160.0
+1215,2025-12-01,Smartphone,Electronics,1,28000,0.1,25200.0
+1216,2025-12-01,Mouse,Accessories,5,1200,0.1,5400.0
